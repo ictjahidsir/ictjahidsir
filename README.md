@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ictjahidsir
+- 👋 Hi, I’m Jahid Sir
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently teaching academic ICT
+- 💞️ I’m trying to make ICT more enjoyable to learn
 - 📫 How to reach me https://ictjahidsir.github.io
